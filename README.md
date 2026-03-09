@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Renzo Llerena 👋
 
-<!--
-**Renxoll/Renxoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Software de 6to ciclo en la UPC (Lima, Perú), apasionado por el desarrollo de sistemas robustos, arquitecturas limpias y la resolución de problemas complejos. 
 
-Here are some ideas to get you started:
+Actualmente, estoy **disponible para proyectos como desarrollador freelance** y en búsqueda de oportunidades profesionales donde pueda aportar valor escribiendo código escalable y eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🔭 Actualmente enfocado en perfeccionar el diseño guiado por el dominio (DDD) y Clean Architecture.
+- 💻 Me especializo en construir tanto APIs seguras y rápidas como interfaces de usuario intuitivas.
+- 🌱 Siempre aplicando buenas prácticas de desarrollo (SOLID, Metodologías Ágiles).
+- 🤝 Abierto a colaborar en proyectos emocionantes y ayudar a digitalizar negocios locales.
+
+### 🛠️ Mi Stack Tecnológico
+
+**Backend & Arquitectura**
+- C# | .NET Framework | Spring Boot | APIs REST | Microservicios
+
+**Frontend & Mobile**
+- React | Vue.js | Angular | HTML5 & CSS3
+- Kotlin (Android Nativo) | Flutter (Multiplataforma)
+
+**Bases de Datos & Herramientas**
+- SQL Server | PostgreSQL | MongoDB
+- Git | GitHub Actions | Docker | Linux
+
+### 📫 ¿Conectamos?
+- **LinkedIn:** [linkedin.com/in/renzo-llerena](https://www.linkedin.com/in/renzo-llerena-0500b4318)
+- **Email:** llerenarenzo123@gmail.com
