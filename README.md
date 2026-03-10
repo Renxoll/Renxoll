@@ -2,7 +2,7 @@
 
 Soy estudiante de Ingeniería de Software de 6to ciclo en la UPC (Lima, Perú), apasionado por el desarrollo de sistemas robustos, arquitecturas limpias y la resolución de problemas complejos. 
 
-Actualmente, estoy **disponible para proyectos como desarrollador freelance** y en búsqueda de oportunidades profesionales donde pueda aportar valor escribiendo código escalable y eficiente.
+Actualmente, estoy **disponible para proyectos como desarrollador freelance** y en búsqueda de oportunidades profesionales donde pueda aportar valor gestionando código eficiente.
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente enfocado en perfeccionar el diseño guiado por el dominio (DDD) y Clean Architecture.
